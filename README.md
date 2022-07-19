@@ -1,1 +1,1 @@
-# gomodenabled
+# GO111MODULE=ON example
